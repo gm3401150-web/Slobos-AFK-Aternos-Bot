@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "TheCoolWorld-X9I1.aternos.me",
-    "port": :20173,
+    "port": 20173,
     "version": "",
     "try-creative": false
   },
